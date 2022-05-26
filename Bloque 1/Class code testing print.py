@@ -1,0 +1,5 @@
+print("hello world")
+print ("my name is adolfo")
+print ("i am in 9 grade")
+print (" my group is the A")
+print ("i like playing fotball")
