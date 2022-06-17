@@ -1,0 +1,421 @@
+#inicio1 
+print("welcome")
+print("you have to answer with yes and no")
+print("1=yes, 2=no")
+input("")
+print("You hear something...it's your cellphone")
+print("do you answer the call? ")
+a = input("")
+
+if a == "1":
+    print("Hi is your friend salinas")
+
+if a == "2":
+     print(
+        "you were not going to answer but you got curious and you end up answering"
+    )
+
+print(
+    "salinas tells you that, if you want to go to an abandoned shell because of halloween, you wanna go?"
+)
+
+b = input("")
+if b == "1":
+    print(
+        "your friend salinas tells you that there are gonna be 4 people more, you are ok with that so you need to make your package,what you wanna keep with you?"
+    )
+
+if b == "2":
+    print(
+        "salinas tells you that its fine... they will you without you and if you want to go you they will be in the abandoned shell" )
+    b = input("")
+  
+#final1 
+#inicio1 adolfo 
+    print("you stay at home and fall asleep")
+    print("for a few hours until you wake up because someone knocked on your door")
+    b = input("")
+    print("you wanna open the door?")
+
+    a1=input("")
+    if a1 == "1":
+      print("you open the door and you see some friends ")
+      input("")
+      print("you let them in, but someone take you back and kills you")
+      input("")
+      print("the only thing you see was a man with a piggy head")
+      input("")
+      print("YOU DIE")
+      
+
+    if a1 == "2":
+      print("you don't open the door and a few minutes later you hear screams")
+      input("")
+      print("you start thinking on you friends because yo think you have heard the voice of one")
+      input("")
+      print("do you want to open the door now that you know some friend is outside?")
+    c1=input("")
+    if c1 == "1":
+        print("you open the door and you see some of your friends very scared")
+        input("")
+        print("you let them in and you see a shadow watching from afar and you close the door")
+        input("")
+        print("you ask what happen to all your friends ")
+        print("YOU: what happen to you guys?")
+        input("")
+        print("FRIENDS: we went to the abandoned shell and everything was very cool until... ")
+        input("")
+        print("YOU: until what?")
+        input("")
+        print("FRIENDS: we saw a men, we thought it was homeless and he was sleep so we let him there, but then he put on a pig head and start walking to us")
+        input("")
+        print("YOU: and what happen?")
+        input("")
+        print("FRIENDS: he take a knife a start trying to kill us")
+        input("")
+        print("YOU: does he kill someone?")
+        input("")
+        print("FRIENDS: yes, some people that you dont know were kill by him")
+        input("")
+        print("you friends and you dont know what to do")
+        print("there is someone outside of your house that want to kill you")
+        input("")
+        print("you try to call the police but while you were doing that the killer  destroys your energy generator")
+        print("that makes that there isn't electricity ")
+        input("")
+        print("you wanna go outside?")
+
+    b1=input("")
+    if b1 == "1":
+      print("you go outside with 2 friends ")
+      print("you start searching the electricity generator and you found it ")
+      input("")
+      print("the generator was making a lot of sparks because it had an ax buried")
+      input("")
+      print("you start seeing this situation is getting very serious and bad")
+      input("")
+      print("then one or your friends start screaming, your turn to see whats happening and there was the men with the pig head")
+      input("")
+      print("you start running while you hear who your 2 friends are getting killed by him")
+      input("")
+      print("you start running and you don't stop, until you remenber that some friends still on your house ")
+      input("")
+      print("do you wanna go back for them?")
+
+      d=input("")
+      if d == "1":
+        print("you go back for them, and you see some of your friends dead")
+        input("")
+        print("you were searching if someone was alive but there wasn't anyone ")
+        input("")
+        print("you start hearing noises and you think there is the killer")
+        print("you take the ax that was on the electricity generator,and you go decided to kill him")
+        input("")
+        print("BUT THEN... when you were getting closer were the noise was you attack and didn't see who you were trying to kill")
+        input("")
+        print("it was salinas")
+        print("because of your fear and dont thinking well you kill salinas by accident thinking he was the killer")
+        input("")
+        print("you get so traumated and scare and the instant that you start running and you see the killer")
+        print("you get paralysed by the fear and he tells that you are weak")
+        input("")
+        print("and he kills you")
+        print("YOU DIE")
+        print("THE WORST FINAL")
+        print("you die as a weak by not fighting the killer and you kill your own friend")
+        input("")
+        input("")
+
+      if d == "2":
+        print("you continue running until while you are hearing screamings very far of your friends, you get with some people that acept to take you with the police")
+        input("")
+        print("you tell the police what happen, and they tell you that the killer is famous and he has killed lot of people")
+        input("")
+        print("POLICE: we have been searching that stupid killer for lot of time, but we couldn't ")
+        input("")
+        print("POLICE: be very carefull and if you need help teld us")
+        input("")
+        print("YOU: why you tell me that?")
+        input("")
+        print("POLICE: that killer is famous for going for all the people he has seen, if someone scape, he is gonna search it until kill him")
+        input("")
+        print("YOU SURVIVE")
+        print("BAD END")
+        input("")
+
+
+    if b1 == "2":
+      
+      print("you dont go outside and the electricity problems continue")
+      input("")
+      print("there are only 6 friends and you")
+      print("everyone thinks that the best decition is to separate and to see where is the killer by the windows")
+      input("")
+      print("you were on the top floor with two friends trying to see where the killer was")
+      input("")
+      print("BUT THEN... someone screams and lot of noise was hear downstairs ")
+      input("")
+      print("the only thing you hear was your friends getting killed by that stupid. ")
+      input("")
+      print("you were getting very very angry because what was happening ")
+      input("")
+      print("you take an object to fight the killer")
+      input("")
+      print("FRIENDS: what are you doing? dont gooo")
+      input("")
+      print("YOU: im going to kill that stupid")
+      input("")
+      print("you go downstairs and you see the killer")
+      print("you dont think it and you go and attack him ")
+      input("")
+      print("You cause him serious injuries but he stays alive and kept fighting")
+      input("")
+      print("when you were on the floor with no chances to win, your friend salinas apper and help you. And the two start fighting versus the killer")
+      input("")
+      print("finally you take a knife and kill him for all your friends")
+      print("YOU WIN")
+      print("YOU SURVIVE AND KILL THE MAN")
+      print("good ending")
+      input("")
+      input("")
+       
+      
+    if c1 == "2":
+      print("you dont open the door and you try to sleep")
+      print("but you still hear screams and voices of your friends")
+      print("you think is you imagination and you fell sleep")
+      input("")
+      print("you wake up some minutes later a you see a shadow looking at you and...")
+      input("")
+      print("you die because he kill you with a knife while he was removing all the organs of your body")
+      print("the last thing you saw was a man with pig head")
+      input("")
+      print("YOU DIE")
+      input("")
+
+#final1 adolfo 
+#inicio2 arsen
+print("you can keep with you, 1= a gun   2=multiporuse tool  3= flashlight")
+
+c = input("")
+if c == "1":
+    print("you are ready, you go with essential things and your gun")
+    input("")
+
+    print("pdt.you dont know how to use the gun correctly, so you need to practice,you want to keep the gun?  1=yes 2=no")
+  
+    d=input("")
+    if d == "1":
+      print("you go to a shooting range to practice with your gun so you start")
+      print("your shoot bounces in a wall and it kill your self")
+      
+    if d == "2":
+      print("you go with your friends but when you are almost with them, but a person assault you and you put resistance so he kill you")
+
+if c == "2":
+    print("you are ready, you go with essential things and your multiporpuse tool")
+  
+    input("")
+    print("you go with your friends and they have wine but no one of them know how to open it so they ask you to you to use your multiporpouse tool.      1=yes 2=no")
+    f=input("")
+
+    if f =="2":
+      print("all of them get angry with u and they punch u until a person with a pig head came and he torture and kill people infront of you, what you do?  1=save a person that is about to die   2=run and escape")
+      
+      i=input("")
+      if i == "2":
+        print("you run until you get really tired so you faint...")
+        
+        input("")
+        print("you get up and you listened a voice that ask u your name...")
+        print("i need your name to help you... please say it clear and loud...")
+        nombre=input("")
+        print("ok")
+        print(nombre)
+        while True:
+          print("checkpoint")
+
+
+
+
+        
+      if i == "1":
+        print("you go and grap him and then you run and run until you are almost to faint, what you do? 1=still running  2=stop and rest ")
+        j=input("")
+
+        if j == "2":
+          #terminar
+          print("you run for your life but u hear someone screaming in the attic, what you wanna do? 1=go and help him 2=run into a strange room")
+          at=input("")
+          
+          if at=="2":
+            print("when you enter to the room you faint...")
+            
+            input("")
+            print("you wake up in the backrooms and you get a heart attack because you get very scared")
+            
+            input("")
+            print("si, asi es, te moriste de una de las formas pendejas")
+            
+          if at=="1":
+            print("it was a trap, there was a monster and he torture you until you die...")
+            input("")
+            print("ya te moriste, porque sigues aca wey?? xd")
+          
+        if j == "1":
+          print("you still running but of the fatigue you fell and punch your head...")
+          
+          input("")
+          print("you wake up in a trap of pig head he tells you this... IF YOU WANT TO SURVIVE YOU NEED TO SAY 1 NUMBER TO 1 TO 10 AND IF YOU ARE INCORRECT YOU DIE ")
+          
+          k= input("")
+          if (k == "7"):
+            print("you survive... but you remember all people that die so you commit suicide ")
+            
+          else:
+             print("INCORRECT!!!  he kill you and he throws you into the fire ")
+  
+    if f == "1":
+      print("you open the wine but your multiporpouse tool broke, you hear a sound behind you, it is a person with a pig head used like a mask. 1=run 2=fight")
+      g=input("")
+
+      if g == "1":
+        print("you run and run until you find a basement, you hide in but you still hear his steps ... he find you what you do 1= go to the ventilation. 2=go to the drainage ")
+        
+        h=input("")
+        if h == "1":
+          print("there is electricity you cant pass so you died")
+          
+        if h == "2":
+          print("there was a cocodrile... he kill you")
+
+      if g == "2":
+        print("he has a chainsaw... he kill you with the worst possible death, he lets you die slowly and then he thow you in fire")
+
+if c == "3":
+  
+    print("you are ready, you go with essential things and your flaslight")
+    input("")
+    print("you go with your friends and they want to go to investigate the abandoned rooms of the house. 1=yes 2=no")
+  
+    k=input("")
+    if k == "1":
+      print("you start investigating but get away of the group by accident, what you wanna do? 1=investigate more. 2=go with the group")
+
+      l=input("")
+
+      if l =="2":
+       if l == "1":
+        
+        print("the computer said that tere is a virus, you need to activate the antivirus, say the password, the password is this numbers but the other way around 7490")
+        
+      m=input("")
+      if m=="0947":
+      
+        print("the antivirus has been activated...")
+      
+        input("")
+        print("in the computer is an ubication, and it saids that there is a way to get out of this hell...1=go  2=dont go")
+        
+        #terminar xd
+
+
+
+        
+      else:
+        print("incorrect you die...")
+        n=input("")
+        if n == "1":
+          print("meanwhile you go you hear a sound that is is where are your friends,ehat you wanna do? 1=go. 2=keep going to the ubication")
+          
+          ñ=input("")
+            
+          if ñ =="2":
+            print("while you are going to the ubication you hear someone screaming 1=go where you hear the scream 2=keep going to the ubication")
+            
+            b1=input("")
+
+            if b1=="2":
+              print("the ubication is a trap ")
+              input("")
+              print("there are a lot of monkeys with knife hands")
+              
+              input("")
+              print("you run but they reach you and they are about tp kill you")
+              
+              input("")
+              print("at the same time they were about to kill you shrek appeard and save you")
+              
+              input("")
+              print("you run until the monkeys are about to kill you ")
+
+              input("")
+              print("shrek sacrifice himself for you ")
+
+              input("")
+              print("you survive because of shrek and you realized you love him")
+              
+              input("")
+              print("you survive but shrek dont so....")
+
+              input("")
+              print("NEUTRAL ENDING")
+            
+            if b1=="1":
+              print("it is your girlfriend dumbo having sex with mike wazousky with a costume of dr. Simi")
+              input("")
+              print("mike tell you something atonisghing...")
+              input("")
+              print("it is...")
+              input("that he is having a baby with dumbo...")
+              input("")
+              print("this notice is so horrible that you fell in severe depresion ...")
+              input("")
+              print("a lot of years after you still feel like shit because of that but...")
+              input("")
+              print("you are feeling better with help of a psicologist and your best friend La princesita sofia...")
+              input("")
+              print("with the time you realized that you love La princesita sofia  but you feel really insecure about telling her...")
+              input("")
+              print("finally you tell her and you feel so nervous and his anwser is...")
+              input("")
+              print("")
+            
+          if ñ == "1":
+            print("you found a person with a pig head killing your friends... 1=run away. 2=fight ")
+            
+            o=input("")
+            if o == "1":
+              print("you run but he follows u so you need to do something else.  1=hide.  2=fight")
+              p=input("")
+              if p == "1":
+                print("you go upstairs and you go into a room, where you wanna hide?   1=closet   2=up the closet")
+                q=input("")
+                if q=="1":
+                  print("pig head enter to the room... he find you and kill you")
+                if q =="2":
+                  print("you find a window up the closet, what you wanna do?  1=jump   2=stay in the room")
+                  
+                  r=input("")
+                  if r=="1":
+                    print("you fell in a rare bush, you start running but you are feeling rare and unexpectedly you fell sleep")
+                    input("")
+                    
+                    while True:
+                      print("checkpoint")
+                      input("")
+                      print("you wake up in a place without light..")
+                      input("")
+                      print("you hear a strange sound...")
+                      input("")
+                      print("it is a monster you start running but he reach you almost inmediatly...")
+                      input("")
+                      print("he wants to talk but you cant understand what he said...")
+                      input("")
+                      print("randomly it turns on the lights and you see something atonishing...")
+                      input("")
+                      print("it is darth vader with a costume of shrek pregnant by steve")
+                      while True:
+                        print("they love each other so much, not like you and your crush xd")
+#final arsen
+#final arsen
